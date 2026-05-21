@@ -32,7 +32,7 @@ cloud       = ["AWS (EC2/S3/RDS/Lambda)", "Docker", "Kubernetes", "GitHub Action
 |---------|-------|-------|
 | **AI Resume Screener** | Python · FastAPI · Groq LLaMA 3.3 · Vercel | [Repo](https://github.com/yukta31/resume-screener-backend) · [Live](https://resume-screener-frontend-flame.vercel.app) |
 | **GMU SmartPatriot** | Next.js · TypeScript · Groq · RAG · Cheerio | [Repo](https://github.com/yukta31/gmu-smartpatriot) · [Live](https://gmu-smartpatriot-4ozcrv5ss-yukta-s-projects.vercel.app) |
-| **HAR CNN-LSTM** | Python · PyTorch · IMU Data · 98% accuracy | [Repo](https://github.com/yukta31) |
+| **HAR CNN-LSTM** | Python · PyTorch · IMU Data · 98% accuracy | [Repo](https://github.com/yukta31/har-cnn-lstm) |
 | **Network Address Manager** | C · AVL Trees · IPv4 · File I/O | [Repo](https://github.com/yukta31/network-address-manager) |
 | **Wine Quality Classifier** | Python · Custom Decision Tree from scratch | [Repo](https://github.com/yukta31/wine-quality-classifier) |
 | **Simulated Annealing** | Python · Combinatorial Testing · GMU CS580 | [Repo](https://github.com/yukta31/simulated-annealing-covering-arrays) |
