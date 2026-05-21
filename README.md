@@ -54,7 +54,6 @@ cloud       = ["AWS (EC2/S3/RDS/Lambda)", "Docker", "Kubernetes", "GitHub Action
 - 📊 **Tableau Data Visualization** certified
 
 ---
-![Yukta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yukta31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ## 📫 Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yukta--batra.vercel.app-6c63ff?style=flat&logo=vercel)](https://yukta-batra.vercel.app)
